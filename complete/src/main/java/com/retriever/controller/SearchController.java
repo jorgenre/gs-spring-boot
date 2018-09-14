@@ -12,7 +12,7 @@ import com.retriever.model.Document;
 import com.retriever.model.Documents;
 
 @RestController
-public class HelloController {
+public class SearchController {
 
     @RequestMapping("/")
 
